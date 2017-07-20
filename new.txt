@@ -1,0 +1,1 @@
+This is a perfectly reasonable text file. However, it has only redundant content.
